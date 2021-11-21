@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">GD8_X_YYYY</string>
+    <!--    TODO 2: ubah X jadi kelas, YYYY jadi 4 digit npm-->
+
+    <string name="app_name">GD12_X_YYYY</string>
     <string name="nama">Nama</string>
     <string name="npm">NPM</string>
     <string name="fakultas">Fakultas</string>
@@ -11,5 +13,3 @@
     <string name="edit_mahasiswa">Edit Mahasiswa</string>
     <string name="loading_text">Loading...</string>
 </resources>
-
-
