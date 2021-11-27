@@ -1,6 +1,6 @@
 <resources>
     <!--    TODO 2: ubah X jadi kelas, YYYY jadi 4 digit npm-->
-    <string name="app_name">GD12_X_YYYY</string>
+    <string name="app_name">GD12_A_0181</string>
 
     <string name="nama">Nama</string>
     <string name="namadepan">Nama Depan</string>
